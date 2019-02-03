@@ -1,17 +1,88 @@
-Welcome to my Simple Calculator.
+# Project Title
 
-I'm almost positive the name speaks for itself. It's a calculator and it's fairly simple. It took me about 4 hours to code this up.
-It's in Visual Basic which I'm sure people despise and hate with a passion but to me, Visual Basic is the absolute best.
+One Paragraph of project description goes here
 
-![githib-small](images/aaronscalculator.png)
+## Getting Started
 
-Aside from peoples preferred languages, this application is just meant to make simple calculations. I'm working on some design changes at
-at the moment as well as adding some functions to the calculator.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Aside from that, enjoy editing or even downloading and using it!
+### Prerequisites
 
-Thanks for reading,
+What things you need to install the software and how to install them
 
-~ Aaron Benjamin
+```
+Give examples
+```
 
-P.S. All the icons you see used in this application are from: http://www.flaticon.com <--- Definitely go check out what they have!
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+
