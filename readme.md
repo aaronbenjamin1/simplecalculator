@@ -10,15 +10,9 @@ Just download the Simple Calculator.exe file and then you're good!
 
 * [Visual Basic in Visual Studio](https://visualstudio.microsoft.com/)
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Just me!
 
 ## License
 
