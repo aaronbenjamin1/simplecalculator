@@ -8,6 +8,8 @@ This calculator isn't necessarily better than any other calculator you've seen. 
 
 Just download the Simple Calculator.exe file and then you're good!
 
+## Requirements
+* [.NETFramework v4.6.1](https://www.microsoft.com/en-us/download/details.aspx?id=49982)
 ## Built With
 
 * [Visual Basic in Visual Studio](https://visualstudio.microsoft.com/)
