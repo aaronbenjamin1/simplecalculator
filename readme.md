@@ -2,6 +2,8 @@
 
 This calculator isn't necessarily better than any other calculator you've seen. It's just something I made in 4 hours. It probably shouldn't have take me that long but I got really picky with the design.
 
+![github](https://github.com/aaronbenjamin1/simplecalculator/blob/master/images/aaronscalculator.png)
+
 ## Installation
 
 Just download the Simple Calculator.exe file and then you're good!
